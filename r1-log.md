@@ -24,3 +24,6 @@ basic JS till https://learn.freecodecamp.org/javascript-algorithms-and-data-stru
 did https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/record-collection/
 I am not my best today to write code. 
 Oct 3rd
+
+### R1D6 
+Finished JS basics at freecodecamp.
